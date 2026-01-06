@@ -9,11 +9,11 @@
 2. Open project in Intellij IDEA / other IDE3
 3. Run the main() function
 
-Description:
+### Description:
 This application allows users to create, update, delete, list, filter,
 and sort personal tasks using a console-based menu.
 
-Features:
+### Features:
 - CRUD operations on tasks
 - Filtering by status
 - Sorting by priority

@@ -6,7 +6,7 @@
 ```git clone https://github.com/Lattuse/Midterm_Native.git```
 
 
-2. Open project in Intellij IDEA / other IDE3
+2. Open project in Intellij IDEA / other IDE
 3. Run the main() function
 
 ### Description:
